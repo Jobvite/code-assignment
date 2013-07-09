@@ -12,6 +12,8 @@ files = [
   JASMINE_ADAPTER,
   'lib/angular-1.0.7.js',
   'lib/angular-mocks-1.0.7.js',
+
+  'src/*.js',
   'test/*Spec.js'
 ];
 
