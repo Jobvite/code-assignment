@@ -1,0 +1,17 @@
+{
+  "name": "JobviteCodeAssignment",
+  "version": "0.0.1",
+  "description": "Jobvite Code Assignment",
+  "scripts": {
+    "test": "karma start test/karma.conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Jobvite/code-assignment.git"
+  },
+  "author": "Jobvite",
+  "devDependencies": {
+    "karma": "~0.8.6"
+  },
+  "private": true
+}
