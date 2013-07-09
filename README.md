@@ -12,9 +12,10 @@ To help clarify, this is what we're looking for
 
 - You can use any library you wish
 - Your code quality will be evaluated on the following points:
-- Efficiency
-- Documentation / Clarity of code
-- Functional (it should work)
+
+	- Efficiency
+	- Documentation / Clarity of code
+	- Functional (it should work)
 
 You can place all your solutions together or onto separate files.
 
